@@ -1,7 +1,8 @@
 ### Hi there 👋
 <div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dokkl&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dokkl&layout=compact 스타일&theme=dracula)
+#
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dokkl&layout=compact&theme=dracula)
 </div>
 
 <!--

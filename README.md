@@ -1,8 +1,8 @@
 ### Hi there 👋
-<div align="center">
+
 ![dokkl's GitHub stats](https://github-readme-stats.vercel.app/api?username=dokkl&show_icons=true&theme=dracula)
 
-</div>
+
 
 <!--
 **dokkl/dokkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
